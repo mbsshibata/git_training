@@ -1,1 +1,1 @@
-read me
+github 接続確認
